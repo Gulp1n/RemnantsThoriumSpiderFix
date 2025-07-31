@@ -1,1 +1,4 @@
 Thorium spiders in the Remnants spider dungeon
+
+makes it so the brown recluse, tarantula and black widow can all spawn in the forgotten tombs.
+feel free to report bugs and leave feedback on the steam workshop page.

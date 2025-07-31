@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RemnantsThoriumSpiderFix")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c590d7d6e007a27207c43afc4def423452ef1d1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92dc7b2605ea8782532e2c42a498d3e3e0dcfc63")]
 [assembly: System.Reflection.AssemblyProductAttribute("RemnantsThoriumSpiderFix")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RemnantsThoriumSpiderFix")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
