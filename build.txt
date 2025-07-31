@@ -1,0 +1,4 @@
+displayName = Remnants + Thorium Spider Fix
+author = Gulp1n
+version = 0.1
+modReferences = ThoriumMod, Remnants
