@@ -1,1 +1,2 @@
-This description will show up on the steam page, check out https://steamcommunity.com/comment/Guide/formattinghelp.
+This mod makes it so Thorium spiders can spawn in the "Forgotten Tomb" from Remnants.
+feel free to leave feedback and report bugs in the comments.
